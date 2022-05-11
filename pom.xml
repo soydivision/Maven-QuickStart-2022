@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <name>maven_quickstart_for_2022</name>
-    <url>https://github.com/passmesomesugar/Maven-Quick-Start-for-2022</url>
+    <url>https://github.com/passmesomesugar/Maven-QuickStart-2022</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
